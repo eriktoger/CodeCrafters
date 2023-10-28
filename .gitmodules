@@ -1,3 +1,0 @@
-[submodule "Rust/http-server"]
-	path = Rust/http-server
-	url = https://git.codecrafters.io/68877767b955d00e
